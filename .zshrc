@@ -1,3 +1,6 @@
 alias l='clear; ls -l'
 alias ll='clear; ls -la'
 alias testify='./bin/test --include-branch-commits'
+alias logify='git log --graph --decorate --pretty=oneline --abbrev-commit'
+alias stylify='./bin/style --include-branch-commits'
+alias styleify='./bin/style --include-branch-commits'
