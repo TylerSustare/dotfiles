@@ -10,6 +10,7 @@ alias dumpgraphql='bin/rails graphql:schema:dump'
 alias nospring='DISABLE_SPRING=1'
 alias ns='DISABLE_SPRING=1'
 alias fwl='--force-with-lease'
+alias ibc='--include-branch-commits'
 
 #############
 # Git Aliases
